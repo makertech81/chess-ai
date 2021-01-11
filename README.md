@@ -21,3 +21,6 @@ When considering move generation (the rules for actually moving each piece) and 
 
 And with that I'll use chess.js for move gen and chessboard.js for visualization.
 For these things I'll follow their documentation on their respective websites. 
+
+Board Visiualization: **Done** - Chessboard.js
+Move Generation: In Progress - chess.js?
