@@ -24,4 +24,4 @@ For these things I'll follow their documentation on their respective websites.
 
 Board Visiualization: **Done** - Chessboard.js
 
-Move Generation: In Progress - chess.js?
+Move Generation: **Done** - chess.js?
